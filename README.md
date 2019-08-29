@@ -20,7 +20,7 @@ This is my second Project on java script
 Nothing to install 
 
 ## How to use?
-Go to the browser and past the path of the index.html thats all.
+Go to the browser and paste the path of the index.html thats all.
 
 ## Contribute
 
